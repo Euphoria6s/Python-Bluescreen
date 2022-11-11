@@ -1,2 +1,5 @@
 # Python-Bluescreen
-Simple python app that will "blue screen"any windows 10 computer
+
+# Simple app I made in a few mins, got the idea from some tiktoks i've seen and decided to recreate!
+
+# *NOTE ⚠* THIS WILL NOT DAMAGE YOUR PC 
